@@ -1,0 +1,11 @@
+.RandomPokemon {
+    border: white 2px solid;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.RandomPokemon h1 {
+    color:black;
+    font-size: 40px;
+    text-align: center;
+}
